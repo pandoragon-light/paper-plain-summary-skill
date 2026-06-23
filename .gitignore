@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.tools/
+
+__pycache__/
+*.py[cod]
+
+.codex_pdf_text/
+*.pdf
+*.doc
+*.docx
+*.tmp
+*.log
